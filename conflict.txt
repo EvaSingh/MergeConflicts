@@ -1,1 +1,1 @@
-This file exists to create a merge conflict
+This file is a part of creating a merge conflict  
