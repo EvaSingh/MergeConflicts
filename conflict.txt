@@ -1,2 +1,2 @@
 
-This file is for creating a merge conflict  
+This file is for creating several merge conflicts  
